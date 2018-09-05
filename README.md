@@ -13,5 +13,5 @@ At the other end of the spectrum, you can even find a compact color printer mode
 Sources :
 
 - https://en.wikipedia.org/wiki/Inkjet_printing
-- http://www.bestqualityprinter.com
+- https://www.bestqualityprinter.com
 - https://www.epson.co.id/Laser-Printers/c/w180
